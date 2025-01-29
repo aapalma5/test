@@ -2,6 +2,7 @@ package ver2;
 
 public class Account {
        // Instance variables, only available inside this class.
+       // New Comment for balance 
 	private double balance; 
 	private String name;
 	
